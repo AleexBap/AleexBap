@@ -9,16 +9,26 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AleexBap/count.svg?"  />
+</div>
+
+###
+<div align="center">
 <a href="https://imgflip.com/i/9zks0k"><img src="https://i.imgflip.com/9zks0k.jpg"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
 
 ###
+<h2 align="left">I have knowledge in: </h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
 </div>
 
 ###
+<h2 align="left">This is my LinkedIn profile, in case it is of interest: </h2>
 
  <div align="left">
   <a href="https://www.linkedin.com/in/alexandre-baptista-718197297/" target="_blank">
@@ -28,4 +38,11 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleexBap/AleexBap/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleexBap/AleexBap/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AleexBap/AleexBap/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
